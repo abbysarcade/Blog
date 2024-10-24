@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+"My Tech Journey" is a blog that delves into the evolving world of software engineering, from the unique perspective of someone who transitioned from marketing into tech. Through personal stories, actionable insights, and advice for both technical and non-technical growth, this blog offers guidance to those navigating career changes, seeking mentorship, building their professional brand, and collaborating across diverse teams. Whether you're breaking into tech or looking to advance your engineering career, Tech Journeys shares lessons learned, tips on continuous learning, and the importance of cultivating strong networks to thrive in a constantly changing industry.
