@@ -1,4 +1,4 @@
-##Why Speaking Up Matters: Advocating for Yourself as a Software Engineer.
+## Why Speaking Up Matters: Advocating for Yourself as a Software Engineer.
 As software engineers, our work often speaks for us in the form of the code we write, the features we ship, and the bugs we… well, (hopefully) squash. But I’ve found that actually speaking up can be just as important—especially when it comes to gaining visibility, building a personal brand, and growing as a leader in the field.
 
 Switching from a marketing background to software engineering has been an adventure in self-advocacy. It’s meant learning to speak up for my ideas, to explain the impact of my work, and (perhaps most challengingly) to convince people I actually know what I’m doing! I’ve often found myself possessing the soft skills of more senior roles before I have the technical whiz to match, which means I've needed to remind management that I was able to focus more entirely on technical skills as I progressed. Here’s a bit of what I’ve learned along the way about why speaking up in tech isn’t just important but vital—and how we can make it work for us.
