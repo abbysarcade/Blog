@@ -42,9 +42,9 @@ Our code club, led by Keith, continues to foster learning and curiosity. Keith�
 
 ### Building Your Own Voltron
 Feeling inspired to build your career Voltron? Here are some tips to get started:
-Be curious: Reach out to people whose skills or careers you admire. A simple “Can I ask for your advice?” can open doors to meaningful relationships.
-Be open: Look for people who will challenge you, not just those who’ll praise you. Remember, growth happens outside your comfort zone.
-Be generous: Relationships are a two-way street. Share your insights and support in return, whether this be with your mentors or passing your learnings forward.
+* Be curious: Reach out to people whose skills or careers you admire. A simple “Can I ask for your advice?” can open doors to meaningful relationships.
+* Be open: Look for people who will challenge you, not just those who’ll praise you. Remember, growth happens outside your comfort zone.
+* Be generous: Relationships are a two-way street. Share your insights and support in return, whether this be with your mentors or passing your learnings forward.
 
 ### Wrapping Up
 Your career Voltron—whether it’s mentors, career coaches, managers, or colleagues—can transform your professional journey. They’ll guide you through challenges, celebrate your wins, and keep you striving for growth.
