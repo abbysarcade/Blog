@@ -1,5 +1,5 @@
 ## Building Your Engineering Voltron: How Mentors, Coaches, and Managers Shape Your Career
-When I first stumbled across Lara Hogan’s brilliant concept of the Manager Voltron (seriously, if you haven’t read her post yet, do it now), something clicked for me. My own “career Voltron” isn’t just made up of managers—it’s a combination of mentors, career coaches, and colleagues who have played pivotal roles in my growth as an engineer.
+When I first stumbled across Lara Hogan’s brilliant concept of the Manager Voltron (seriously, if you haven’t read [her post](https://larahogan.me/blog/manager-voltron/) yet, do it now), something clicked for me. My own “career Voltron” isn’t just made up of managers—it’s a combination of mentors, career coaches, and colleagues who have played pivotal roles in my growth as an engineer.
 
 In this post, I’ll share how assembling my own Voltron of support has helped me navigate challenges, celebrate wins, and—most importantly—keep learning. Whether you’re an engineer or a job seeker, I hope this inspires you to build your network of support.
 
