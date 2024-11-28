@@ -1,5 +1,6 @@
 ## "What I’m Working On Right Now" – A Peek Behind the Curtain
 *Part of the ongoing series exploring the technical challenges and growth of an engineer.*
+
 As engineers, we’re often working on complex, ever-evolving projects that test our skills, patience, and sometimes, our sense of humour. Here’s what I’ve been up to recently, in my bid to balance technical problem-solving, personal growth, and making life a little easier for the people who rely on our systems every day.
 ### The Big Project: A New App for Store Colleagues
 My main focus right now is helping to build a new in-store colleague app. The current application is nearing the end of its lifecycle, and it’s time for a replacement that’s more efficient, reliable, and better suited to the fast-paced, often chaotic world of retail.
