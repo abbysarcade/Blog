@@ -20,11 +20,13 @@ Here’s what’s in my tech stack right now:
 * **Data Factory and Cosmos DB** for handling data.
 * **TypeScript** 
 * **Service Bus** to keep things moving smoothly.
+
 These tools weren’t just chosen at random, we go through spikes and Key Decision Documents (KDDs) to review the best solutions, they’re helping us tackle the complexity of this project while ensuring scalability and reliability.
 ### What I’m Learning Along the Way
 This project has been a masterclass in growth (and patience):
 * **Technically**: I’ve deepened my skills in TypeScript, learned NoSQL, and gotten my first real taste of Azure.
 * **Personally**: I’m learning to speak up more (even when it’s uncomfortable) and thinking more holistically about the ripple effects of every line of code.
+
 The accessibility-first mindset I’m developing has been especially rewarding—it’s about building for everyone, not just the average user. Kinda also learning that the 'average' person just doesn't exist. 
 ### The Bigger Picture
 At the end of the day, this project is about creating meaningful impact. I want store colleagues to feel supported by the tools they use, not hindered by them. I also want head office teams to better understand the real challenges faced in stores—because when we know better, we build better.
