@@ -13,7 +13,7 @@ When I’m not deep in the code for the app, I’m:
 ### Challenges and Barcode Confusion
 Let’s talk challenges. Some are technical—like learning Azure and NoSQL from scratch. (SQL was a good friend, but it was time to branch out.) Others are randomly specific, like discovering how much data can be crammed into a single barcode. It turns out, barcodes are not just simple lines—they’re secret keepers, and I’m still not sure I trust them...
 Business logic is another beast entirely. Store environments aren’t simple; every process has quirks and exceptions. And just when you think you’ve accounted for everything, someone asks, “But what about this edge case?” (Cue facepalm.)
-###Tools of the Trade
+### Tools of the Trade
 Here’s what’s in my tech stack right now:
 * **React & Next.js** for the frontend.
 * **Data Factory and Cosmos DB** for handling data.
