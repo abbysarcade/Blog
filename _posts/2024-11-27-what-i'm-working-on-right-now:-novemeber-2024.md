@@ -10,6 +10,7 @@ When I’m not deep in the code for the app, I’m:
 * Supporting **festival teams** with technical solutions, because who doesn’t love a good festival?
 * **Improving ways of working**—not just for myself, but for my team and as a representative for engineering colleagues across Co-op.
 * **Building my personal brand** *(yes, this blog is part of that effort)*. Think *“nerdy but approachable”* with a touch of humour... hopefully.
+
 ### Challenges and Barcode Confusion
 Let’s talk challenges. Some are technical—like learning Azure and NoSQL from scratch. (SQL was a good friend, but it was time to branch out.) Others are randomly specific, like discovering how much data can be crammed into a single barcode. It turns out, barcodes are not just simple lines—they’re secret keepers, and I’m still not sure I trust them...
 Business logic is another beast entirely. Store environments aren’t simple; every process has quirks and exceptions. And just when you think you’ve accounted for everything, someone asks, “But what about this edge case?” (Cue facepalm.)
