@@ -33,6 +33,7 @@ If you’re tackling a similar project, here’s my headline suggestions:
 1. Spend time learning about the end user’s experience.
 2. Don’t underestimate the importance of accessible design.
 3. And finally, brace yourself for the surprises—barcodes, I’m looking at you.
+
 ### What’s Next?
 For me, it’s all about keeping the momentum going. I’m excited to see how this app will transform in-store processes and continue exploring ways to improve as an engineer. And maybe write a few more blog posts along the way.
 If you’ve ever wrangled business logic, battled with a NoSQL query, or found yourself unexpectedly charmed by barcodes, let’s connect! Engineering is better when we share our stories—and our lessons learned.
