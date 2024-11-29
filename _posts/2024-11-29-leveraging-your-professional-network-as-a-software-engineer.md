@@ -1,4 +1,4 @@
-## Leveraging Your Professional Network as a Software Engineer
+## Leveraging Your Professional Network as a Software Engineer 
 When you hear the word "networking," you might picture forced smiles, limp handshakes, and someone trying to sell you on a “once-in-a-lifetime” crypto scheme. But in the world of software engineering, your professional network is less about business cards and buzzwords and more about genuine connections—and, sometimes, unexpected salsa classes.
 
 Here’s a look at how my network has shaped my career and how you can build, maintain, and make the most of yours, with a few real-life stories along the way.
